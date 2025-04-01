@@ -71,6 +71,35 @@ python backend.py
 
 ---
 
+## User Manaul
+
+Welcome to the Super Duper Map, it is an interactive tool that helps you view, add, or remove animals across different Canadian provinces!
+
+- Exploring Animals by Province (Interactive Map)
+Click on a province on the map.
+This will lead you to the animal list which will automatically filter to show only animals that are in that province.
+
+If you want to see all animals again you can click the list button or refresh. 
+You can also filter the animals in the main list page.
+
+- Removing an Animal / Adding an animal
+Click the button that says Add Animal then it will lead you to a form to fill which allows you to 
+add an animal or remove.
+
+- Viewing the Full List
+Scroll down to see the complete list of animals.
+
+Each entry includes:
+The animal name
+Provinces it belongs to
+Type of species
+
+- Features 
+Feature	Description
+Clickable Map	Filters animals by selected province
+Add Animal Form	Lets you add new animals with name + image + region
+Remove/Delete any animal from the list
+
 ## To-Do
 
 - [ ] Make the "Add Animal" form functional
