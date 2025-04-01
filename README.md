@@ -71,7 +71,7 @@ python backend.py
 
 ---
 
-## User Manaul
+## User Manual
 
 Welcome to the Super Duper Map, it is an interactive tool that helps you view, add, or remove animals across different Canadian provinces!
 
